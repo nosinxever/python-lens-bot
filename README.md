@@ -1,1 +1,1 @@
-# python-lens-bot
+# python-telegram-lens-bot
